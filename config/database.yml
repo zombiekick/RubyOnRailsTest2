@@ -18,6 +18,7 @@ default: &default
   host: localhost
 
 development:
+  adapter: postgresql
   <<: *default
   database: hello_world_development
 
