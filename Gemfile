@@ -17,7 +17,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 #gem 'rails_12factor'
 
-gem 'pg', '0.15.1'
+#gem 'pg', '0.15.1'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
