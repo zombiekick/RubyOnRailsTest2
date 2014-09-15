@@ -18,6 +18,7 @@ default: &default
   host: localhost
 
 development:
+  adapter: mysql2
   <<: *default
   database: hello_world_development
 
